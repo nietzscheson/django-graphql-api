@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "0571e41aa09a8176e71fbebbefa63191f00a73d2e184e7c5a30f1e23bd2acb63"
+            "sha256": "fc6a5d492596b48f4af84be32a90f3ed5882b94d32dc9b52b6ccd7752cf8d088"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -111,10 +111,10 @@
         },
         "graphene-django-optimizer": {
             "hashes": [
-                "sha256:c652091d8fb8b93c36c359d46c095b35ce3a6d8fbf9b5ea2ca94e290b1ba3230"
+                "sha256:79269880d59d0a35d41751ddcb419220c4ad3871960416371119f447cb2e1a77"
             ],
             "index": "pypi",
-            "version": "==0.9.1"
+            "version": "==0.8.0"
         },
         "graphene-file-upload": {
             "hashes": [
@@ -219,16 +219,8 @@
                 "sha256:77b80f693a569e2e527958459634f18df9b0ba2625ba4e0c2d5da5be42e6f2b3",
                 "sha256:a615e69ae185e08fdd73e4715e260e2479c861b5740057fde6e8b4e3b7dd589f"
             ],
-            "markers": "python_full_version >= '3.6.2'",
-            "version": "==21.12b0"
-        },
-        "brunette": {
-            "hashes": [
-                "sha256:1fa3e577e21f3944196ea863b9a511ff3e51ca87f2dd36eeccb1a058d6332186",
-                "sha256:6351b2175a63031bb046897469944d9b0ae115ed0621237ae6c97a263047aed6"
-            ],
             "index": "pypi",
-            "version": "==0.2.2"
+            "version": "==21.12b0"
         },
         "certifi": {
             "hashes": [
@@ -535,14 +527,6 @@
             ],
             "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4'",
             "version": "==20.13.0"
-        },
-        "wheel": {
-            "hashes": [
-                "sha256:4bdcd7d840138086126cd09254dc6195fb4fc6f01c050a1d7236f2630db1d22a",
-                "sha256:e9a504e793efbca1b8e0e9cb979a249cf4a0a7b5b8c9e8b65a5e39d49529c1c4"
-            ],
-            "markers": "python_version >= '2.7' and python_version not in '3.0, 3.1, 3.2, 3.3, 3.4'",
-            "version": "==0.37.1"
         }
     }
 }
