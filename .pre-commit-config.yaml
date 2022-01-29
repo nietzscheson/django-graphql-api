@@ -20,13 +20,13 @@ repos:
     hooks:
     -   id: isort
         args: ["--profile", "black", "./"]
--   repo: local
-    hooks:
-    -   id: safety
-        name: safety
-        language: system
-        entry: safety check -r Pipfile
-        pass_filenames: false
+# -   repo: local
+#     hooks:
+#     -   id: safety
+#         name: safety
+#         language: system
+#         entry: safety check -r Pipfile
+#         pass_filenames: false
 -   repo: https://github.com/editorconfig-checker/editorconfig-checker.python
     rev: 2.4.0
     hooks:
